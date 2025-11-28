@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "0c303cd7-8c00-464c-a89b-81461f5ceff0",
+    "name": "samp",
+    "title": "jdj",
+    "description": "asfjoe",
+    "collageFormat": "grid",
+    "fontStyle": "sans",
+    "colorTheme": "warm",
+    "images": [
+      {
+        "id": "17643361171690.07463302527646687",
+        "url": "/uploads/images/6c634ac4-a3a5-47f6-9fc3-18fc14b4e21a.jpeg",
+        "name": "img3-min.jpg"
+      },
+      {
+        "id": "17643361171720.056459317095622685",
+        "url": "/uploads/images/7bf7e032-e4a3-4aeb-a6ec-9ff51c1e792e.jpeg",
+        "name": "img5-min.jpg"
+      },
+      {
+        "id": "17643361171740.9998277288896362",
+        "url": "/uploads/images/5d8e26f1-c775-4009-9e0b-0f4cc862d6f2.jpeg",
+        "name": "img4-min.jpg"
+      }
+    ],
+    "createdAt": "2025-11-28T18:52:00.806618",
+    "updatedAt": "2025-11-28T18:52:00.806618"
+  }
+]
