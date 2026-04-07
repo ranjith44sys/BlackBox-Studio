@@ -2,7 +2,7 @@
 
 > A full-stack photography studio web application for showcasing portfolios, managing bookings, and handling client inquiries — built with React + Vite on the frontend and Flask on the backend.
 
-**Live Site:** [blackbox-studio23.netlify.app](https://blackbox-studio23.netlify.app)
+
 
 ---
 
